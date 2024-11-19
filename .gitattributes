@@ -1,2 +1,73 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+TCS question:-
+
+Write a program to arrange the array in ascending order and find the exact sum = 230  { 7, 163,2,19,3,225,229}
+Find circular rotation of an array.
+wap to find area of a circle.
+
+Nomura :-
+
+Imp Subjects: Java, OOPs, DSA, DBMS, SQL
+(High chances are that they will ask you for your fav subject and ask question mostly from
+that, in my case I mentioned OOPs and Java as the prog. lang.)
+---
+Technical Interview
+1. Introduce yourself.
+2. State the features of OOPs and explain each one with an example.
+3. Write a program demonstrating Polymorphism and explain it. (I gave an example of
+Overriding.)
+4. Do you know about Keys? PK, FK, etc.? – Define them (a small example will help).
+5. How many types of Joins are there? Name them.
+6. Do you know about normalization? Why do we perform normalization?
+7. Given a table named “Student” with columns “name”, “college”, “country” and example
+entries: “ABC, STCET, INDIA”, “XYZ, STCET, INDIA”. You can see the data is redundant
+here. How will you remove this redundancy and make it memory efficient? (He may not
+mention the ‘normalize’ keyword.)
+8. Write a program to add two numbers without using the plus (+) or increment (++)
+operators (meaning without using arithmetic operators). [Ans: Use Bitwise operators.]
+9. Have you heard about Web Technology, API, Artificial Intelligence?
+10. Define AI.
+11. Regarding API, I briefly discussed my project where an API was used.
+12. What projects are you interested in doing for your final year?
+13. Do you have any questions for me? (Ask the interviewer a light professional question; it
+gives a good impression.)
+
+
+Director Interview
+1. Introduce yourself.
+2. What are your favourite subjects? (I mentioned only OOPs.)
+3. How long have you known this subject?
+4. Why is the OOPs concept used?
+5. What are the features/pillars of OOPs?
+6. Explain all the features with just one example.
+7. Which data structure do you often use? (I said Queue.)
+8. Where have you implemented a queue? (I said BFS.)
+9. How is a Queue used in BFS? Explain in detail. (Working of BFS with Queue)
+10. If I ask you to write a program, in which language would you write it? (I said Java.)
+11. Create a class named Measurement with member variables unit and value, e.g., unit=km,
+value=10. Write a method to add the value of other Measurement objects if they have the
+same unit. [Ans: Use Exception if the units don’t match.]
+12. After I wrote a user-defined exception in the code, he asked:
+ a. Why have you used an exception here?
+ b. Is there any other way to handle this?
+ c. Why have you written `throws` in the method signature?
+ d. What happens if you do not use `throws`?
+ e. This user-defined exception that you have written, is it a runtime or compile-time
+exception?
+ f. Which other runtime exception have you experienced? (I said
+ArrayIndexOutOfBoundException)
+ g. Why does this exception occur?
+ h. What have you done to handle this exception so that your program runs smoothly?
+13. Question about my project – How is the API integrated into your project?
+14. What does your project do? (I briefly explained the working.)
+
+
+
+HR Interview
+1. Why NRIFT?
+2. What are your interests?
+3. What are your project interests?
+4. How many members are there in your family?
+5. What did you learn from participating in the Hackathon? (I had participated in a
+Hackathon.)
+6. What are your plans for future studies?
+7. Do you have any questions for me?
